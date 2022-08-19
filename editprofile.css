@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+body{
+    background-color: aquamarine;
+}
+.form-control{
+    border: 2px solid orangered;
+}
+.sidebar{
+    background-color: #333;
+    color:white;
+    height: 100%;
+}
+.sidebar a{
+    margin-left: 10px;
+    display: block;
+    color:white;  
+    padding-bottom: 10px;
+    font-size:30px;
+    text-decoration: none;
+
+    
+
+    }
+    .btn{
+        background-color: green;
+        color:aliceblue;}
+    .information{
+        background-color:;
+
+    }
+    .container{
+        background-color: aqua;
+        width: 50%;
+    }

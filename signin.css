@@ -1,0 +1,45 @@
+body{
+    background: url(./img.avif) no-repeat;
+    padding-top:150px;
+    background-size: cover;
+
+    
+
+}
+.form-signin{
+    margin:0 auto;
+    max-width:500px ;
+    padding: 50px;
+    background: rgba(236,240,241,.35);
+     position:relative;
+
+
+
+}
+    
+.form-control
+{
+    border:2px solid orange;
+}
+.form-signin h2{
+    text-align:center;
+}
+.btn0{
+    text-align: center;
+    border-radius:8px;
+    padding: 5px;
+   position:absolute;
+   left:40%;
+    top:85%;
+    padding-left: 4px;
+    color:white;
+    background: rgb(106, 0, 255);
+    border:purple;
+   
+    
+}
+.btn0:hover{
+    background: green;
+    text-decoration-color:azure;
+
+}

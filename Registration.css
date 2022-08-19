@@ -1,0 +1,44 @@
+body{
+    background: url(./img.avif) no-repeat;
+    padding-top:30px;
+    background-size: cover;
+    
+
+}
+.form-signup{
+    margin:0 auto;
+    max-width: 400px ;
+
+    padding: 30px;
+    background: rgba(236,240,241,.35);
+    position: relative;
+
+
+}
+    
+.form-control
+
+{
+    border:2px solid orange;
+}
+.form-signup h2{
+    text-align:center;
+}
+.btn{
+    text-align: center;
+    border-radius:8px;
+    padding: 5px;
+    text-decoration-color: aliceblue;
+    padding-left: 4px;
+    color:azure;
+    background: rgb(106, 0, 255);
+    position: absolute;
+    left:40%;
+    top:92%;
+    
+}
+.btn:hover{
+    background: green;
+    text-decoration-color:azure;
+
+}
